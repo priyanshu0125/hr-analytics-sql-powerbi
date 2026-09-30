@@ -18,7 +18,7 @@ for visualization.
   retention funnel, trend line, multi-select slicers
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot/dashboard-final.png)
+![Dashboard Screenshot](Screenshot/dashboard-ss.png)
 
 ## Files
 - `EmpProj1.sql` — full schema creation, mock data generation,
